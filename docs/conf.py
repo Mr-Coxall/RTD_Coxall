@@ -27,18 +27,18 @@ release = ''
 
 # -- Options for HTML output ---------------------------------------------------
 
-html_theme = 'book'
-html_theme_path = ['themes']
-html_title = "qwerty"
+#html_theme = 'book'
+#html_theme_path = ['themes']
+#html_title = "qwerty"
 #html_short_title = None
-#html_logo = None
+html_logo = "images/cs-logo.png"
 #html_favicon = None
-html_static_path = ['_static']
-html_domain_indices = False
-html_use_index = False
-html_show_sphinx = False
-htmlhelp_basename = 'MusicforGeeksandNerdsdoc'
-html_show_sourcelink = False
+#html_static_path = ['_static']
+#html_domain_indices = False
+#html_use_index = False
+#html_show_sphinx = False
+#htmlhelp_basename = 'MusicforGeeksandNerdsdoc'
+#html_show_sourcelink = False
 
 # -- Options for LaTeX output --------------------------------------------------
 
